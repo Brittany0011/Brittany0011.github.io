@@ -8,13 +8,13 @@
       <link href="/2023/07/20/Datawhale%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB01/"/>
       <url>/2023/07/20/Datawhale%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB01/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="Datawhale训练营01"><a href="#Datawhale训练营01" class="headerlink" title="Datawhale训练营01"></a>Datawhale训练营01</h2><h4 id="NLP实践全流程基础"><a href="#NLP实践全流程基础" class="headerlink" title="NLP实践全流程基础"></a>NLP实践全流程基础</h4><ul><li><p>NLP方向介绍</p><p><strong>自然语言处理</strong>–是计算机科学和人工智能的一个重要子领域，主要关注如何让计算机更好地理解和处理人类的自然语言。这包括让计算机理解自然语言文本的含义，解释其上下文，以及生成自然语言文本。简而言之：目标即让计算机理解人类语言，可以像人类一样处理自然语言，包括文字和口头交流。</p></li><li><p>本次赛事介绍</p><p><strong>基于论文摘要的文本分类与关键词抽取挑战赛</strong></p><p>task1：判断是否是医学论文</p><p>task2：关键词抽取</p><p>第一个任务看作是一个<strong>文本二分类任务</strong>。机器需要根据对论文摘要等信息的理解，将论文划分为医学领域的文献和非医学领域的文献两个类别之一。</p><p>第二个任务看作是一个<strong>文本关键词识别任务</strong>。机器需要从给定的论文中识别和提取出与论文内容相关的关键词。</p></li><li><p>流程演示</p><p>下载数据</p><p><img src="C:%5CUsers%5CYH-0737%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230721151824968.png" alt="image-20230721151824968"></p><p>提交数据</p><p><img src="C:%5CUsers%5CYH-0737%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230721151939639.png" alt="image-20230721151939639"></p></li><li><p>Baseline介绍</p><p>传统方法</p><p>BERT预训练模型</p><p>微调chatGLM2-6B</p></li><li><p>补充</p><p>上文在执行中能终端可能会报告如下错误：</p><p><img src="C:%5CUsers%5CYH-0737%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20230721152208162.png" alt="image-20230721152208162"></p><p>参考博客链接：<a href="https://blog.csdn.net/qq_41297934/article/details/111310009">https://blog.csdn.net/qq_41297934/article/details/111310009</a></p></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> Datawhale分享 </tag>
+            <tag> Datawhale分享### </tag>
             
         </tags>
       
